@@ -4,3 +4,9 @@ body
     color: blanchedalmond;
     font-family: Arial; 
 }
+
+#parrafo
+{
+    text-align: center;
+    color: aqua;
+}
