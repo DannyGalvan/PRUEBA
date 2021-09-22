@@ -1,1 +1,1 @@
-# Este es mi primer repositorio de prueba en el uso de git y github
+# Este es mi primer repositorio, empezamos en el mundo de la informatica
