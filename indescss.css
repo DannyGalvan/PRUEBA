@@ -10,3 +10,10 @@ body
     text-align: center;
     color: aqua;
 }
+#button
+{
+    font-size: 10px;
+    border-radius: 15px;
+    color: black;
+    background-color: blanchedalmond;
+}
