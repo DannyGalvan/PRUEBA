@@ -16,6 +16,8 @@ parrafo.innerHTML += "consola: quiero saber tu edad " + nombre + "</br>";
 parrafo.innerHTML += "esta es tu edad " + nombre + " : " + edad + "</br>";
 }
 
+alert("gracias por participar");
+
 
 
 
